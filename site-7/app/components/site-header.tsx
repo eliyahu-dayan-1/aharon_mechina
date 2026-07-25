@@ -5,6 +5,7 @@ const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
 const asset = (path: string) => `${basePath}${path}`;
 
 const navLinks = [
+  { href: "/", label: "דף הבית" },
   { href: "/vision", label: "החזון" },
   { href: "/program", label: "התוכנית" },
   { href: "/story", label: "הדרך של נתנאל" },
