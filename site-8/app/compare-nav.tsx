@@ -7,6 +7,7 @@ const variants = [
   { key: "site-6", label: "עיצוב 6", path: "/site-6/" },
   { key: "site-7", label: "עיצוב 6 (מפוצל לדפים)", path: "/site-7/" },
   { key: "site-8", label: "עיצוב 8 (חי ומזמין)", path: "/site-8/" },
+  { key: "site-9", label: "עיצוב 9 (מדויק ובשל)", path: "/site-9/" },
 ];
 
 export default function CompareNav() {
