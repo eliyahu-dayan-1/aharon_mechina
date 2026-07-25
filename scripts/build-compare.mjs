@@ -1,11 +1,12 @@
 #!/usr/bin/env node
-// Builds all 5 site variants as static exports and merges them into one
+// Builds all 6 site variants as static exports and merges them into one
 // combined output so they can be browsed side by side under one deployment:
 //   /            -> site      (home, links out to each variant)
 //   /site-2/     -> site-2
 //   /site-3/     -> site-3
 //   /site-4/     -> site-4
 //   /site-5/     -> site-5
+//   /site-6/     -> site-6
 import { execSync } from "node:child_process";
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
 import { fileURLToPath } from "node:url";
@@ -20,6 +21,7 @@ const variants = [
   { dir: "site-3", target: "site-3" },
   { dir: "site-4", target: "site-4" },
   { dir: "site-5", target: "site-5" },
+  { dir: "site-6", target: "site-6" },
 ];
 
 rmSync(outDir, { recursive: true, force: true });
