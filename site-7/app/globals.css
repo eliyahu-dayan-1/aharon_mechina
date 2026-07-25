@@ -270,6 +270,44 @@ body[data-zone="join"] .wash-blob-b {
   border-color: var(--lime);
 }
 
+.nav-toggle-checkbox {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+.nav-toggle-btn {
+  display: none;
+  flex-direction: column;
+  justify-content: center;
+  gap: 5px;
+  width: 40px;
+  height: 40px;
+  cursor: pointer;
+}
+
+.nav-toggle-btn span {
+  display: block;
+  width: 22px;
+  height: 2px;
+  background: var(--white);
+  transition:
+    transform 220ms ease,
+    opacity 220ms ease;
+}
+
+.nav-toggle-checkbox:checked ~ .nav-toggle-btn span:nth-child(1) {
+  transform: translateY(7px) rotate(45deg);
+}
+
+.nav-toggle-checkbox:checked ~ .nav-toggle-btn span:nth-child(2) {
+  opacity: 0;
+}
+
+.nav-toggle-checkbox:checked ~ .nav-toggle-btn span:nth-child(3) {
+  transform: translateY(-7px) rotate(-45deg);
+}
+
 .header-cta {
   justify-self: end;
   display: inline-flex;
@@ -383,6 +421,12 @@ h1 {
   font-weight: 900;
   line-height: 0.86;
   text-transform: uppercase;
+}
+
+[data-grow] {
+  transform: scale(var(--grow-scale, 1));
+  transform-origin: right center;
+  will-change: transform;
 }
 
 h1 em,
@@ -1199,12 +1243,43 @@ footer > a {
 }
 
 @media (max-width: 1100px) {
-  .main-nav {
-    display: none;
+  .site-header {
+    grid-template-columns: 1fr auto auto;
   }
 
-  .site-header {
-    grid-template-columns: 1fr auto;
+  .nav-toggle-btn {
+    display: flex;
+  }
+
+  .main-nav {
+    position: fixed;
+    inset: 104px 0 auto;
+    z-index: 29;
+    flex-direction: column;
+    align-items: stretch;
+    gap: 0;
+    padding: 10px 18px 20px;
+    background: var(--charcoal);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    opacity: 0;
+    transform: translateY(-10px);
+    pointer-events: none;
+    transition:
+      opacity 200ms ease,
+      transform 200ms ease;
+  }
+
+  .main-nav a {
+    border: none;
+    border-radius: 0;
+    padding: 15px 4px;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+  }
+
+  .nav-toggle-checkbox:checked ~ .main-nav {
+    opacity: 1;
+    transform: translateY(0);
+    pointer-events: auto;
   }
 
   .hero-content {
@@ -1232,6 +1307,10 @@ footer > a {
   .site-header {
     height: 84px;
     padding-inline: 18px;
+  }
+
+  .main-nav {
+    top: 84px;
   }
 
   .brand-mark {

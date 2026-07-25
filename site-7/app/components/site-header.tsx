@@ -29,6 +29,17 @@ export default function SiteHeader() {
         </span>
       </Link>
 
+      <input type="checkbox" id="nav-toggle" className="nav-toggle-checkbox" />
+      <label
+        htmlFor="nav-toggle"
+        className="nav-toggle-btn"
+        aria-label="פתיחת תפריט ניווט"
+      >
+        <span />
+        <span />
+        <span />
+      </label>
+
       <nav className="main-nav" aria-label="חלקי האתר">
         {navLinks.map((link) => (
           <Link key={link.href} href={link.href}>

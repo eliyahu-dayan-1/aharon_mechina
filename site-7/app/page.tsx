@@ -60,7 +60,7 @@ export default function Home() {
             <span />
             הכנה לשירות משמעותי לצעירים חרדים
           </p>
-          <h1>
+          <h1 data-grow>
             אמונה.
             <br />
             מוכנות.

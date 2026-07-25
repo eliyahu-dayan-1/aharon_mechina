@@ -52,6 +52,10 @@ export default function ScrollFX() {
     const parallaxTargets = Array.from(
       document.querySelectorAll<HTMLElement>("[data-parallax]"),
     );
+    const growTargets = Array.from(
+      document.querySelectorAll<HTMLElement>("[data-grow]"),
+    );
+    const growScale = 0.14;
 
     let ticking = false;
     const applyParallax = () => {
@@ -63,6 +67,11 @@ export default function ScrollFX() {
         const strength = Number(el.dataset.parallax) || 0.12;
         const offset = Math.max(-1, Math.min(1, center / viewportH)) * strength * 100;
         el.style.setProperty("--py", `${offset.toFixed(2)}px`);
+      }
+      for (const el of growTargets) {
+        const rect = el.getBoundingClientRect();
+        const progress = Math.max(0, Math.min(1, 1 - rect.top / viewportH));
+        el.style.setProperty("--grow-scale", (1 + progress * growScale).toFixed(3));
       }
     };
     const onScroll = () => {
