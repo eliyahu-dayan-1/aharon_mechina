@@ -1,0 +1,74 @@
+import type { Metadata } from "next";
+import { Assistant, Frank_Ruhl_Libre } from "next/font/google";
+import "./globals.css";
+import CompareNav from "./compare-nav";
+import ScrollFX from "./scroll-fx";
+
+const display = Frank_Ruhl_Libre({
+  subsets: ["hebrew", "latin"],
+  weight: ["500", "600", "700", "800", "900"],
+  variable: "--font-display",
+  display: "swap",
+});
+
+const body = Assistant({
+  subsets: ["hebrew", "latin"],
+  weight: ["300", "400", "500", "600", "700", "800"],
+  variable: "--font-body",
+  display: "swap",
+});
+
+const basePath = process.env.NEXT_PUBLIC_BASE_PATH ?? "";
+const siteUrl =
+  process.env.NEXT_PUBLIC_SITE_URL?.replace(/\/$/, "") ??
+  "http://localhost:3000";
+const title = "רוח נתנאל | הכנה לשירות משמעותי";
+const description =
+  "מכינה קדם־צבאית לצעירים חרדים — קהילה חמה שמכינה לשירות משמעותי, בגוף, בראש וברוח.";
+
+export const metadata: Metadata = {
+  metadataBase: new URL(siteUrl),
+  title,
+  description,
+  icons: {
+    icon: `${basePath}/logo.jpeg`,
+    shortcut: `${basePath}/logo.jpeg`,
+  },
+  openGraph: {
+    title,
+    description,
+    type: "website",
+    locale: "he_IL",
+    url: siteUrl,
+    images: [
+      {
+        url: `${siteUrl}/og.png`,
+        width: 1680,
+        height: 945,
+        alt: "רוח נתנאל — אמונה, מוכנות, שליחות",
+      },
+    ],
+  },
+  twitter: {
+    card: "summary_large_image",
+    title,
+    description,
+    images: [`${siteUrl}/og.png`],
+  },
+};
+
+export default function RootLayout({
+  children,
+}: Readonly<{
+  children: React.ReactNode;
+}>) {
+  return (
+    <html lang="he" dir="rtl" className={`${display.variable} ${body.variable}`}>
+      <body>
+        <CompareNav />
+        <ScrollFX />
+        {children}
+      </body>
+    </html>
+  );
+}
