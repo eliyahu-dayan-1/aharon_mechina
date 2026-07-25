@@ -1,0 +1,7 @@
+{
+  "name": "aharon-mechina-compare",
+  "private": true,
+  "scripts": {
+    "build:compare": "node scripts/build-compare.mjs"
+  }
+}

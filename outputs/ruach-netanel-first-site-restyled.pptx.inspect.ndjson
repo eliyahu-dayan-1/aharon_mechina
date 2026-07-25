@@ -1,0 +1,308 @@
+{"kind":"deck","id":"pr/dqnciw","name":"Deck"}
+{"kind":"layout","layoutId":"/ppt/slideMasters/slideMaster1.xml","name":"","type":"master"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout1.xml","name":"DEFAULT"}
+{"kind":"layout","layoutId":"/ppt/slideLayouts/slideLayout2.xml","name":"Slide master 1"}
+{"kind":"slide","id":"sl/y90nupkv","slide":1,"title":"רוח נתנאל","textShapes":3}
+{"kind":"textbox","id":"sh/k3yl0zql","slide":1,"name":"Text 0","text":"רוח נתנאל","textPreview":"רוח נתנאל","textChars":9,"textLines":1,"bbox":[545,150,360,95]}
+{"kind":"textbox","id":"sh/7qp4be9c","slide":1,"name":"Text 1","text":"הכנה לשירות משמעותי לצעירים חרדים","textPreview":"הכנה לשירות משמעותי לצעירים חרדים","textChars":33,"textLines":1,"bbox":[548,258,355,58]}
+{"kind":"textbox","id":"sh/65g3298r","slide":1,"name":"Text 2","text":"לזכרו של נתנאל סילברג ז\"ל — לוחם ביחידת יהל\"ם","textPreview":"לזכרו של נתנאל סילברג ז\"ל — לוחם ביחידת יהל\"ם","textChars":45,"textLines":1,"bbox":[548,394,355,52]}
+{"kind":"image","id":"im/cj21o7ed","slide":1,"name":"Image 0","geometry":"rect","alt":"חניכי רוח נתנאל באימון לילי","bbox":[0,0,520,540]}
+{"kind":"notes","id":"nt/y90nupkv","slide":1,"text":""}
+{"kind":"slide","id":"sl/hwbqtkby","slide":2,"title":"מי היה נתנאל סילברג ז\"ל","textShapes":18}
+{"kind":"textbox","id":"sh/ozy1ofad","slide":2,"name":"Text 0","text":"מי היה נתנאל סילברג ז\"ל","textPreview":"מי היה נתנאל סילברג ז\"ל","textChars":23,"textLines":1,"bbox":[375,36,535,54]}
+{"kind":"textbox","id":"sh/b29kza94","slide":2,"name":"Text 1","text":"בחור ישיבה שבחר, מתוך שליחות עמוקה, לקחת אחריות על שמירת עם ישראל. הוא לא בחר בדרך הקלה — הוא בחר בדרך הנכונה.","textPreview":"בחור ישיבה שבחר, מתוך שליחות עמוקה, לקחת אחריות על שמירת עם ישראל. הוא לא בחר בדרך הקלה — הוא בחר בדרך הנכונה.","textChars":110,"textLines":1,"bbox":[375,94,535,58]}
+{"kind":"textbox","id":"sh/a10jqpsj","slide":2,"name":"Text 2","text":"01","textPreview":"01","textChars":2,"textLines":1,"bbox":[856,183,36,18]}
+{"kind":"shape","id":"sh/x4r21kru","slide":2,"name":"Shape 3","bbox":[304.98,154.72,242.93,1.5]}
+{"kind":"textbox","id":"sh/w3i1sfa9","slide":2,"name":"Text 4","text":"תלמיד ישיבה","textPreview":"תלמיד ישיבה","textChars":11,"textLines":1,"bbox":[668,183,176,25]}
+{"kind":"textbox","id":"sh/r65knqtk","slide":2,"name":"Text 5","text":"למד שנים רבות, ספג ערכי תורה ומוסר שעיצבו את דמותו לאורך חייו.","textPreview":"למד שנים רבות, ספג ערכי תורה ומוסר שעיצבו את דמותו לאורך חייו.","textChars":62,"textLines":1,"bbox":[650,170,260,86]}
+{"kind":"textbox","id":"sh/q5wjelsz","slide":2,"name":"Text 6","text":"02","textPreview":"02","textChars":2,"textLines":1,"bbox":[581,183,36,18]}
+{"kind":"shape","id":"sh/ove9o7yd","slide":2,"name":"Shape 7","bbox":[52.09,154.72,242.93,1.5]}
+{"kind":"textbox","id":"sh/9wnqhczy","slide":2,"name":"Text 8","text":"בחירה מתוך שליחות","textPreview":"בחירה מתוך שליחות","textChars":17,"textLines":1,"bbox":[393,183,176,25]}
+{"kind":"textbox","id":"sh/mtwrmxg7","slide":2,"name":"Text 9","text":"מתוך אמונה באחריות כלפי עם ישראל, התגייס לצה\"ל — לא כחובה, אלא כזכות.","textPreview":"מתוך אמונה באחריות כלפי עם ישראל, התגייס לצה\"ל — לא כחובה, אלא כזכות.","textChars":69,"textLines":1,"bbox":[375,170,260,86]}
+{"kind":"textbox","id":"sh/nu58f2hs","slide":2,"name":"Text 10","text":"03","textPreview":"03","textChars":2,"textLines":1,"bbox":[856,285,36,18]}
+{"kind":"shape","id":"sh/wjy9sry9","slide":2,"name":"Shape 11","bbox":[304.98,257.74,242.93,1.5]}
+{"kind":"textbox","id":"sh/xk7qlczu","slide":2,"name":"Text 12","text":"קצין ביהל\"ם","textPreview":"קצין ביהל\"ם","textChars":11,"textLines":1,"bbox":[668,285,176,25]}
+{"kind":"textbox","id":"sh/ahwrqhgj","slide":2,"name":"Text 13","text":"הפך למפקד ביחידת ההנדסה המיוחדת, הוביל חייליו באומץ ושימש דוגמה אישית.","textPreview":"הפך למפקד ביחידת ההנדסה המיוחדת, הוביל חייליו באומץ ושימש דוגמה אישית.","textChars":70,"textLines":1,"bbox":[650,272,260,86]}
+{"kind":"textbox","id":"sh/bip8jmho","slide":2,"name":"Text 14","text":"04","textPreview":"04","textChars":2,"textLines":1,"bbox":[581,285,36,18]}
+{"kind":"shape","id":"sh/cnupgny5","slide":2,"name":"Shape 15","bbox":[52.09,257.74,242.93,1.5]}
+{"kind":"textbox","id":"sh/do3q9szq","slide":2,"name":"Text 16","text":"התנדבות למלחמה","textPreview":"התנדבות למלחמה","textChars":14,"textLines":1,"bbox":[393,285,176,25]}
+{"kind":"textbox","id":"sh/t8byxkn2","slide":2,"name":"Text 17","text":"כשפרצה מלחמת חרבות ברזל, לא המתין לצו — התנדב מיד, כי הבין מהי אחריות אמיתית.","textPreview":"כשפרצה מלחמת חרבות ברזל, לא המתין לצו — התנדב מיד, כי הבין מהי אחריות אמיתית.","textChars":77,"textLines":1,"bbox":[375,272,260,86]}
+{"kind":"textbox","id":"sh/s72xofmh","slide":2,"name":"Text 18","text":"05","textPreview":"05","textChars":2,"textLines":1,"bbox":[856,387,36,18]}
+{"kind":"shape","id":"sh/76twva5c","slide":2,"name":"Shape 19","bbox":[52.09,360.77,495.83,1.5]}
+{"kind":"textbox","id":"sh/65kfmpor","slide":2,"name":"Text 20","text":"נפל בקרב בעזה","textPreview":"נפל בקרב בעזה","textChars":13,"textLines":1,"bbox":[393,387,451,25]}
+{"kind":"textbox","id":"sh/hcvy14ne","slide":2,"name":"Text 21","text":"נפל כשרץ לסייע ללוחמים שנפגעו — עד הרגע האחרון חשב על האחר. זכרו יישאר לעד.","textPreview":"נפל כשרץ לסייע ללוחמים שנפגעו — עד הרגע האחרון חשב על האחר. זכרו יישאר לעד.","textChars":75,"textLines":1,"bbox":[375,374,535,86]}
+{"kind":"shape","id":"sh/gbmxszmt","slide":2,"name":"Shape 22","bbox":[375,472,535,48]}
+{"kind":"textbox","id":"sh/u94fqp4n","slide":2,"name":"Text 23","text":"סמל למנהיגות, הקרבה ואהבת עם ישראל — נתנאל הוא ההשראה שמניעה את רוח נתנאל קדימה.","textPreview":"סמל למנהיגות, הקרבה ואהבת עם ישראל — נתנאל הוא ההשראה שמניעה את רוח נתנאל קדימה.","textChars":80,"textLines":1,"bbox":[394,479,494,34]}
+{"kind":"image","id":"im/mtwfm5kr","slide":2,"name":"Image 0","geometry":"rect","alt":"נתנאל סילברג ז״ל","bbox":[0,0,340,540]}
+{"kind":"image","id":"im/nu5gfalw","slide":2,"name":"Image 1","bbox":[884,489,14,12]}
+{"kind":"notes","id":"nt/hwbqtkby","slide":2,"text":""}
+{"kind":"slide","id":"sl/ofy9wn61","slide":3,"title":"החזון","textShapes":13}
+{"kind":"textbox","id":"sh/cza94vmx","slide":3,"name":"Text 0","text":"החזון","textPreview":"החזון","textChars":5,"textLines":1,"bbox":[592,38,315,62]}
+{"kind":"textbox","id":"sh/d0jax03i","slide":3,"name":"Text 1","text":"דור חדש של צעירים חרדים המתגייסים מתוך בחירה, שליחות ומוכנות מלאה","textPreview":"דור חדש של צעירים חרדים המתגייסים מתוך בחירה, שליחות ומוכנות מלאה","textChars":65,"textLines":1,"bbox":[343,105,564,34]}
+{"kind":"textbox","id":"sh/298ryl4v","slide":3,"name":"Text 2","text":"צעיר חרדי שמגיע לשירות מוכן — פיזית, מנטלית ורוחנית — מצליח ומשפיע. אנחנו בונים את המסגרת שתאפשר לו להגיע לשם.","textPreview":"צעיר חרדי שמגיע לשירות מוכן — פיזית, מנטלית ורוחנית — מצליח ומשפיע. אנחנו בונים את המסגרת שתאפשר לו להגיע לשם.","textChars":110,"textLines":1,"bbox":[52,145,855,34]}
+{"kind":"textbox","id":"sh/obq90bml","slide":3,"name":"Text 3","text":"מוכנות פיזית","textPreview":"מוכנות פיזית","textChars":12,"textLines":1,"bbox":[666,218,178,30]}
+{"kind":"textbox","id":"sh/pcjqtg36","slide":3,"name":"Text 4","text":"כושר קרבי וחוסן פיזי לשירות לוחמני.","textPreview":"כושר קרבי וחוסן פיזי לשירות לוחמני.","textChars":35,"textLines":1,"bbox":[648,200,250,116]}
+{"kind":"textbox","id":"sh/n6ls3alk","slide":3,"name":"Text 5","text":"מוכנות מנטלית","textPreview":"מוכנות מנטלית","textChars":13,"textLines":1,"bbox":[375,218,178,30]}
+{"kind":"textbox","id":"sh/n2l4fq98","slide":3,"name":"Text 6","text":"קבלת החלטות תחת לחץ, צוות ומנהיגות.","textPreview":"קבלת החלטות תחת לחץ, צוות ומנהיגות.","textChars":35,"textLines":1,"bbox":[357,200,250,116]}
+{"kind":"textbox","id":"sh/943mhgre","slide":3,"name":"Text 7","text":"היכרות עם מערכת הביטחון","textPreview":"היכרות עם מערכת הביטחון","textChars":23,"textLines":1,"bbox":[84,218,178,30]}
+{"kind":"textbox","id":"sh/83ulovat","slide":3,"name":"Text 8","text":"הבנת מסלולי השירות לבחירה מושכלת.","textPreview":"הבנת מסלולי השירות לבחירה מושכלת.","textChars":33,"textLines":1,"bbox":[66,200,250,116]}
+{"kind":"textbox","id":"sh/a5c3ql8z","slide":3,"name":"Text 9","text":"שייכות ואהבת הארץ","textPreview":"שייכות ואהבת הארץ","textChars":17,"textLines":1,"bbox":[520,368,178,30]}
+{"kind":"textbox","id":"sh/x8nml0ra","slide":3,"name":"Text 10","text":"שירות מתוך אהבה לעם ישראל וערכים יהודיים.","textPreview":"שירות מתוך אהבה לעם ישראל וערכים יהודיים.","textChars":41,"textLines":1,"bbox":[502,350,250,116]}
+{"kind":"textbox","id":"sh/ja54na9g","slide":3,"name":"Text 11","text":"מנהיגות עתידית","textPreview":"מנהיגות עתידית","textChars":14,"textLines":1,"bbox":[229,368,178,30]}
+{"kind":"textbox","id":"sh/i9w3u58v","slide":3,"name":"Text 12","text":"מנהיגים חרדים שישנו את החברה הישראלית מבפנים.","textPreview":"מנהיגים חרדים שישנו את החברה הישראלית מבפנים.","textChars":45,"textLines":1,"bbox":[211,350,250,116]}
+{"kind":"image","id":"im/p4bu58jm","slide":3,"name":"Image 0","bbox":[850,216,30,30]}
+{"kind":"image","id":"im/o32dw321","slide":3,"name":"Image 1","bbox":[559,216,30,30]}
+{"kind":"image","id":"im/n2tc3y1g","slide":3,"name":"Image 2","bbox":[268,216,30,30]}
+{"kind":"image","id":"im/21kvutkb","slide":3,"name":"Image 3","bbox":[704,366,30,30]}
+{"kind":"image","id":"im/10bu183q","slide":3,"name":"Image 4","bbox":[413,366,30,30]}
+{"kind":"notes","id":"nt/ofy9wn61","slide":3,"text":""}
+{"kind":"slide","id":"sl/jyx0ra1s","slide":4,"title":"האתגר והפתרון","textShapes":26}
+{"kind":"textbox","id":"sh/1cj2d8b6","slide":4,"name":"Text 0","text":"האתגר והפתרון","textPreview":"האתגר והפתרון","textChars":13,"textLines":1,"bbox":[535,25,370,55]}
+{"kind":"textbox","id":"sh/0ba143al","slide":4,"name":"Text 1","text":" הבעיה: פוטנציאל שלא ממומש","textPreview":"הבעיה: פוטנציאל שלא ממומש","textChars":26,"textLines":1,"bbox":[233.94,92.29,232.9,16.85]}
+{"kind":"textbox","id":"sh/rm1k7yt4","slide":4,"name":"Text 2","text":"צעירים חרדים רבים המעוניינים להתגייס נתקלים במכשולים שמונעים מימוש רצונם.","textPreview":"צעירים חרדים רבים המעוניינים להתגייס נתקלים במכשולים שמונעים מימוש רצונם.","textChars":73,"textLines":1,"bbox":[6.77,118.07,460.07,15.77]}
+{"kind":"textbox","id":"sh/doj29oba","slide":4,"name":"Text 3","text":"חוסר ידע","textPreview":"חוסר ידע","textChars":8,"textLines":1,"bbox":[315.25,156.16,134.8,16.85]}
+{"kind":"textbox","id":"sh/sna103ap","slide":4,"name":"Text 4","text":"אי-היכרות עם מסלולי השירות מובילה לבחירות שגויות ונשירה.","textPreview":"אי-היכרות עם מסלולי השירות מובילה לבחירות שגויות ונשירה.","textChars":56,"textLines":1,"bbox":[277.55,181.95,172.51,31.53]}
+{"kind":"textbox","id":"sh/ih8ju9sn","slide":4,"name":"Text 5","text":"פערי כושר","textPreview":"פערי כושר","textChars":9,"textLines":1,"bbox":[104.75,156.16,134.8,16.85]}
+{"kind":"textbox","id":"sh/kbm987y5","slide":4,"name":"Text 6","text":"היעדר הכנה פיזית חוסם גישה ליחידות לוחמות.","textPreview":"היעדר הכנה פיזית חוסם גישה ליחידות לוחמות.","textChars":42,"textLines":1,"bbox":[67.05,181.95,172.51,31.53]}
+{"kind":"textbox","id":"sh/i94r6xgz","slide":4,"name":"Text 7","text":"חששות מנטליים","textPreview":"חששות מנטליים","textChars":13,"textLines":1,"bbox":[315.25,246.97,134.8,16.85]}
+{"kind":"textbox","id":"sh/jadsz2xk","slide":4,"name":"Text 8","text":"פחד מהלא נודע גורם לרבים לוותר מראש.","textPreview":"פחד מהלא נודע גורם לרבים לוותר מראש.","textChars":36,"textLines":1,"bbox":[277.55,272.75,172.51,31.53]}
+{"kind":"textbox","id":"sh/x8vaxsfe","slide":4,"name":"Text 9","text":"חסמים בירוקרטיים","textPreview":"חסמים בירוקרטיים","textChars":16,"textLines":1,"bbox":[104.75,246.97,134.8,16.85]}
+{"kind":"textbox","id":"sh/a5kr2xg3","slide":4,"name":"Text 10","text":"תיקי עבר וחסמים משפטיים ללא פתרון.","textPreview":"תיקי עבר וחסמים משפטיים ללא פתרון.","textChars":34,"textLines":1,"bbox":[67.05,272.75,172.51,15.77]}
+{"kind":"textbox","id":"sh/g36tgryd","slide":4,"name":"Text 11","text":"היעדר מודלים לחיקוי","textPreview":"היעדר מודלים לחיקוי","textChars":19,"textLines":1,"bbox":[315.25,337.77,134.8,16.85]}
+{"kind":"textbox","id":"sh/h4fa9wfy","slide":4,"name":"Text 12","text":"מחסור בדמויות חרדיות מובילות שמראות שזה אפשרי.","textPreview":"מחסור בדמויות חרדיות מובילות שמראות שזה אפשרי.","textChars":46,"textLines":1,"bbox":[277.55,363.55,172.51,31.53]}
+{"kind":"shape","id":"sh/p0batw72","slide":4,"name":"Shape 13","bbox":[54.77,417.41,412.07,37.22]}
+{"kind":"textbox","id":"sh/3ytsrmpw","slide":4,"name":"Text 14","text":"התוצאה: נשירה ופוטנציאל שלא ממומש — עבור הצעיר, צה\"ל והחברה כולה.","textPreview":"התוצאה: נשירה ופוטנציאל שלא ממומש — עבור הצעיר, צה\"ל והחברה כולה.","textChars":65,"textLines":1,"bbox":[17.55,428.14,414.25,15.77]}
+{"kind":"textbox","id":"sh/2xkrih8b","slide":4,"name":"Text 15","text":" הפתרון: מסגרת מקצועית ומלווה","textPreview":"הפתרון: מסגרת מקצועית ומלווה","textChars":29,"textLines":1,"bbox":[660.75,92.29,244.97,16.85]}
+{"kind":"textbox","id":"sh/1wbapc7q","slide":4,"name":"Text 16","text":"ליווי מקצועי מרגע ההתלבטות ועד יום הגיוס — מענה לכל אתגר בדרך.","textPreview":"ליווי מקצועי מרגע ההתלבטות ועד יום הגיוס — מענה לכל אתגר בדרך.","textChars":62,"textLines":1,"bbox":[445.65,118.07,460.07,15.77]}
+{"kind":"shape","id":"sh/gv29g7q5","slide":4,"name":"Shape 17","bbox":[704.15,143.88,201.57,121.16]}
+{"kind":"shape","id":"sh/fu9sn2p0","slide":4,"name":"Shape 18","bbox":[862.09,155.16,32.35,32.35]}
+{"kind":"textbox","id":"sh/tsrqlc7u","slide":4,"name":"Text 19","text":"אימוני כושר","textPreview":"אימוני כושר","textChars":11,"textLines":1,"bbox":[759.63,196.45,134.8,16.85]}
+{"kind":"textbox","id":"sh/sri9s7q9","slide":4,"name":"Text 20","text":"בניית כושר, חוסן ומוכנות פיזית לשירות לוחמי.","textPreview":"בניית כושר, חוסן ומוכנות פיזית לשירות לוחמי.","textChars":44,"textLines":1,"bbox":[715.43,222.23,179.01,31.53]}
+{"kind":"shape","id":"sh/ilwf69kv","slide":4,"name":"Shape 21","bbox":[493.65,143.88,201.57,121.16]}
+{"kind":"shape","id":"sh/jm5gze1g","slide":4,"name":"Shape 22","bbox":[651.59,155.16,32.35,32.35]}
+{"kind":"textbox","id":"sh/5ony1oj6","slide":4,"name":"Text 23","text":"הכנה מנטלית","textPreview":"הכנה מנטלית","textChars":11,"textLines":1,"bbox":[549.13,196.45,134.8,16.85]}
+{"kind":"textbox","id":"sh/axcf29kj","slide":4,"name":"Text 24","text":"סדנאות וליווי להתמודדות עם לחצים וקבלת החלטות.","textPreview":"סדנאות וליווי להתמודדות עם לחצים וקבלת החלטות.","textChars":46,"textLines":1,"bbox":[504.93,222.23,179.01,31.53]}
+{"kind":"shape","id":"sh/vy5gbe14","slide":4,"name":"Shape 25","bbox":[704.15,273.97,201.57,105.39]}
+{"kind":"shape","id":"sh/wzex4z2p","slide":4,"name":"Shape 26","bbox":[862.09,285.25,32.35,32.35]}
+{"kind":"textbox","id":"sh/mtcfypkn","slide":4,"name":"Text 27","text":"הרצאות והכוונה","textPreview":"הרצאות והכוונה","textChars":14,"textLines":1,"bbox":[759.63,326.53,134.8,16.85]}
+{"kind":"textbox","id":"sh/nulw7u18","slide":4,"name":"Text 28","text":"מפגשים עם רבנים, קצינים ובוגרי שירות.","textPreview":"מפגשים עם רבנים, קצינים ובוגרי שירות.","textChars":37,"textLines":1,"bbox":[715.43,352.31,179.01,15.77]}
+{"kind":"shape","id":"sh/fm5c3q54","slide":4,"name":"Shape 29","bbox":[493.65,273.97,201.57,105.39]}
+{"kind":"shape","id":"sh/elwba54j","slide":4,"name":"Shape 30","bbox":[651.59,285.25,32.35,32.35]}
+{"kind":"textbox","id":"sh/0netcvm9","slide":4,"name":"Text 31","text":"מנטור אישי","textPreview":"מנטור אישי","textChars":10,"textLines":1,"bbox":[549.13,326.53,134.8,16.85]}
+{"kind":"textbox","id":"sh/rilczq5s","slide":4,"name":"Text 32","text":"מישהו שעבר את הדרך וילווה בכל שלב.","textPreview":"מישהו שעבר את הדרך וילווה בכל שלב.","textChars":34,"textLines":1,"bbox":[504.93,352.31,179.01,15.77]}
+{"kind":"shape","id":"sh/qhcb6l47","slide":4,"name":"Shape 33","bbox":[493.65,388.29,412.07,105.39]}
+{"kind":"shape","id":"sh/dknu10ny","slide":4,"name":"Shape 34","bbox":[862.09,399.57,32.35,32.35]}
+{"kind":"textbox","id":"sh/3elcv65w","slide":4,"name":"Text 35","text":"סיוע משפטי וכלכלי","textPreview":"סיוע משפטי וכלכלי","textChars":17,"textLines":1,"bbox":[759.63,440.85,134.8,16.85]}
+{"kind":"textbox","id":"sh/idcb2lob","slide":4,"name":"Text 36","text":"פתרון חסמים בירוקרטיים וכלכליים.","textPreview":"פתרון חסמים בירוקרטיים וכלכליים.","textChars":32,"textLines":1,"bbox":[504.93,466.63,389.51,15.77]}
+{"kind":"image","id":"im/7upwnm98","slide":4,"name":"Image 0","bbox":[265.27,143.88,203.07,81.87]}
+{"kind":"image","id":"im/6tgfeh8n","slide":4,"name":"Image 1","bbox":[54.77,143.88,203.07,81.87]}
+{"kind":"image","id":"im/tw7epwre","slide":4,"name":"Image 2","bbox":[265.27,234.69,203.07,81.87]}
+{"kind":"image","id":"im/svyxgrqt","slide":4,"name":"Image 3","bbox":[54.77,234.69,203.07,81.87]}
+{"kind":"image","id":"im/fi9wr694","slide":4,"name":"Image 4","bbox":[265.27,325.49,203.07,81.87]}
+{"kind":"image","id":"im/uhgfi18j","slide":4,"name":"Image 5","bbox":[442.58,432.95,13.48,10.78]}
+{"kind":"image","id":"im/1kretwra","slide":4,"name":"Image 6","bbox":[870.98,164.06,14.55,14.55]}
+{"kind":"image","id":"im/gjixkbqp","slide":4,"name":"Image 7","bbox":[660.48,164.06,14.55,14.55]}
+{"kind":"image","id":"im/3m9gv69g","slide":4,"name":"Image 8","bbox":[870.98,294.15,14.55,14.55]}
+{"kind":"image","id":"im/2l0fm18v","slide":4,"name":"Image 9","bbox":[660.48,294.15,14.55,14.55]}
+{"kind":"image","id":"im/yt4ra9wf","slide":4,"name":"Image 10","bbox":[870.98,408.47,14.55,14.55]}
+{"kind":"notes","id":"nt/jyx0ra1s","slide":4,"text":""}
+{"kind":"slide","id":"sl/i107q5of","slide":5,"title":"תוכנית ההכנה המלאה","textShapes":18}
+{"kind":"textbox","id":"sh/dgbulwnm","slide":5,"name":"Text 0","text":"תוכנית ההכנה המלאה","textPreview":"תוכנית ההכנה המלאה","textChars":18,"textLines":1,"bbox":[372,30,535,54]}
+{"kind":"textbox","id":"sh/cf2tcr61","slide":5,"name":"Text 1","text":"שני עמודי תווך משלימים, מותאמים אישית לכל משתתף ולמסלול השירות שלו.","textPreview":"שני עמודי תווך משלימים, מותאמים אישית לכל משתתף ולמסלול השירות שלו.","textChars":67,"textLines":1,"bbox":[372,91,535,42]}
+{"kind":"textbox","id":"sh/z2tcnm5s","slide":5,"name":"Text 2","text":"הכנה פיזית","textPreview":"הכנה פיזית","textChars":10,"textLines":1,"bbox":[650,150,250,27]}
+{"kind":"textbox","id":"sh/yhkbe1o7","slide":5,"name":"Text 3","text":"תוכנית אימונים מקצועית לדרישות הפיזיות של השירות הצבאי.","textPreview":"תוכנית אימונים מקצועית לדרישות הפיזיות של השירות הצבאי.","textChars":55,"textLines":1,"bbox":[650,182,250,42]}
+{"kind":"textbox","id":"sh/032tgr6d","slide":5,"name":"Text 4","text":"אימוני כושר קרבי","textPreview":"אימוני כושר קרבי","textChars":16,"textLines":1,"bbox":[650,240,220,23]}
+{"kind":"textbox","id":"sh/n6dcr65o","slide":5,"name":"Text 5","text":"ריצה, כוח וסיבולת — נבנים בהדרגה ובצורה בטוחה.","textPreview":"ריצה, כוח וסיבולת — נבנים בהדרגה ובצורה בטוחה.","textChars":46,"textLines":1,"bbox":[650,266,250,34]}
+{"kind":"textbox","id":"sh/w32dkbuh","slide":5,"name":"Text 6","text":"בניית חוסן גופני","textPreview":"בניית חוסן גופני","textChars":16,"textLines":1,"bbox":[650,310,220,23]}
+{"kind":"textbox","id":"sh/x4vedgvm","slide":5,"name":"Text 7","text":"עמידה בתנאים קשים ומאמץ ממושך.","textPreview":"עמידה בתנאים קשים ומאמץ ממושך.","textChars":30,"textLines":1,"bbox":[650,336,250,34]}
+{"kind":"textbox","id":"sh/v2twb6dw","slide":5,"name":"Text 8","text":"משמעת והתמדה","textPreview":"משמעת והתמדה","textChars":12,"textLines":1,"bbox":[650,380,220,23]}
+{"kind":"textbox","id":"sh/k7mxovud","slide":5,"name":"Text 9","text":"הרגלי אימון קבועים — בסיס להצלחה בכל תחום.","textPreview":"הרגלי אימון קבועים — בסיס להצלחה בכל תחום.","textChars":42,"textLines":1,"bbox":[650,406,250,34]}
+{"kind":"textbox","id":"sh/i54fmlc7","slide":5,"name":"Text 10","text":"הכנה ליחידות לוחמות","textPreview":"הכנה ליחידות לוחמות","textChars":19,"textLines":1,"bbox":[650,450,220,23]}
+{"kind":"textbox","id":"sh/j6dwfqds","slide":5,"name":"Text 11","text":"תוכניות מותאמות לדרישות יחידות מובחרות וסיירות.","textPreview":"תוכניות מותאמות לדרישות יחידות מובחרות וסיירות.","textChars":47,"textLines":1,"bbox":[650,476,250,34]}
+{"kind":"textbox","id":"sh/sb6xsvu9","slide":5,"name":"Text 12","text":"הכנה מנטלית","textPreview":"הכנה מנטלית","textChars":11,"textLines":1,"bbox":[375,150,250,27]}
+{"kind":"textbox","id":"sh/tcfel0vu","slide":5,"name":"Text 13","text":"הכלים הדרושים לכל לוחם ומפקד להתמודדות עם אתגרי השירות.","textPreview":"הכלים הדרושים לכל לוחם ומפקד להתמודדות עם אתגרי השירות.","textChars":55,"textLines":1,"bbox":[375,182,250,42]}
+{"kind":"textbox","id":"sh/gfi5grih","slide":5,"name":"Text 14","text":"עבודת צוות","textPreview":"עבודת צוות","textChars":10,"textLines":1,"bbox":[375,240,220,23]}
+{"kind":"textbox","id":"sh/fe94nm1w","slide":5,"name":"Text 15","text":"בניית אמון הדדי — הבסיס לכל יחידה מוצלחת.","textPreview":"בניית אמון הדדי — הבסיס לכל יחידה מוצלחת.","textChars":41,"textLines":1,"bbox":[375,266,250,34]}
+{"kind":"textbox","id":"sh/pkr6tgjy","slide":5,"name":"Text 16","text":"מנהיגות","textPreview":"מנהיגות","textChars":7,"textLines":1,"bbox":[375,310,220,23]}
+{"kind":"textbox","id":"sh/4ji5kbid","slide":5,"name":"Text 17","text":"זיהוי ופיתוח הפוטנציאל המנהיגותי של כל משתתף.","textPreview":"זיהוי ופיתוח הפוטנציאל המנהיגותי של כל משתתף.","textChars":45,"textLines":1,"bbox":[375,336,250,34]}
+{"kind":"image","id":"im/8j2x8b6t","slide":5,"name":"Image 0","geometry":"rect","alt":"אימון קבוצתי של חניכי רוח נתנאל","bbox":[0,0,330,540]}
+{"kind":"image","id":"im/9kbyhg7e","slide":5,"name":"Image 1","bbox":[878,242,18,18]}
+{"kind":"image","id":"im/ulkfaloz","slide":5,"name":"Image 2","bbox":[878,312,18,18]}
+{"kind":"image","id":"im/vmdgjqpk","slide":5,"name":"Image 3","bbox":[878,382,18,18]}
+{"kind":"image","id":"im/5gfi9krm","slide":5,"name":"Image 4","bbox":[878,452,18,18]}
+{"kind":"image","id":"im/4f6hgfq1","slide":5,"name":"Image 5","bbox":[603,242,18,18]}
+{"kind":"notes","id":"nt/i107q5of","slide":5,"text":""}
+{"kind":"slide","id":"sl/x8f69ofe","slide":6,"title":"היכרות עם צה\"ל וחיבור לשטח","textShapes":27}
+{"kind":"textbox","id":"sh/yhg7epsj","slide":6,"name":"Text 0","text":"היכרות עם צה\"ל וחיבור לשטח","textPreview":"היכרות עם צה\"ל וחיבור לשטח","textChars":26,"textLines":1,"bbox":[470,28,437,52]}
+{"kind":"textbox","id":"sh/zi98nu94","slide":6,"name":"Text 1","text":"ידע הוא כוח. הכרת המסלולים, התפקידים והתרבות הצבאית מאפשרת קבלת החלטות מושכלות — כולל ביקורים בבסיסים ומפגשים עם לוחמים.","textPreview":"ידע הוא כוח. הכרת המסלולים, התפקידים והתרבות הצבאית מאפשרת קבלת החלטות מושכלות — כולל ביקורים בבסיסים ומפגשים עם לוחמים.","textChars":120,"textLines":1,"bbox":[52,88,855,40]}
+{"kind":"shape","id":"sh/87ipkzal","slide":6,"name":"Shape 2","bbox":[484.81,121.19,423.1,63.27]}
+{"kind":"textbox","id":"sh/98rqt4r6","slide":6,"name":"Text 3","text":"מסלולי שירות","textPreview":"מסלולי שירות","textChars":12,"textLines":1,"bbox":[756.34,132.87,139.89,17.48]}
+{"kind":"textbox","id":"sh/ml07i9sv","slide":6,"name":"Text 4","text":"סקירת כל המסלולים — מלוחמה ועד טכנולוגיה, מסיירות ועד קורס קצינים.","textPreview":"סקירת כל המסלולים — מלוחמה ועד טכנולוגיה, מסיירות ועד קורס קצינים.","textChars":66,"textLines":1,"bbox":[496.5,156.13,399.73,16.65]}
+{"kind":"shape","id":"sh/7m98ru9g","slide":6,"name":"Shape 5","bbox":[52.09,121.19,423.11,63.27]}
+{"kind":"textbox","id":"sh/oryp8fah","slide":6,"name":"Text 6","text":"תפקידים ותנאים","textPreview":"תפקידים ותנאים","textChars":14,"textLines":1,"bbox":[323.62,132.87,139.89,17.48]}
+{"kind":"textbox","id":"sh/pc76hkr2","slide":6,"name":"Text 7","text":"הכרת תפקידים, תנאי שירות והטבות — לתכנון נכון של המסלול.","textPreview":"הכרת תפקידים, תנאי שירות והטבות — לתכנון נכון של המסלול.","textChars":56,"textLines":1,"bbox":[63.77,156.13,399.73,16.65]}
+{"kind":"shape","id":"sh/h4bupgn6","slide":6,"name":"Shape 8","bbox":[484.81,194.08,423.1,63.27]}
+{"kind":"textbox","id":"sh/w32twb6l","slide":6,"name":"Text 9","text":"הכוונה אישית","textPreview":"הכוונה אישית","textChars":12,"textLines":1,"bbox":[756.34,205.77,139.89,17.48]}
+{"kind":"textbox","id":"sh/v2tcn650","slide":6,"name":"Text 10","text":"ליווי אישי לפי יכולות ושאיפות — לא מסלול אחד לכולם.","textPreview":"ליווי אישי לפי יכולות ושאיפות — לא מסלול אחד לכולם.","textChars":51,"textLines":1,"bbox":[496.5,229.02,399.73,16.65]}
+{"kind":"shape","id":"sh/u1kbu1ov","slide":6,"name":"Shape 11","bbox":[52.09,194.08,423.11,63.27]}
+{"kind":"textbox","id":"sh/5svutgni","slide":6,"name":"Text 12","text":"מפגשים עם לוחמים","textPreview":"מפגשים עם לוחמים","textChars":16,"textLines":1,"bbox":[323.62,205.77,139.89,17.48]}
+{"kind":"textbox","id":"sh/47mt0b6x","slide":6,"name":"Text 13","text":"סיפורים אמיתיים מהשטח, עצות כנות והשראה חיה מקצינים ובוגרים.","textPreview":"סיפורים אמיתיים מהשטח, עצות כנות והשראה חיה מקצינים ובוגרים.","textChars":60,"textLines":1,"bbox":[63.77,229.02,399.73,16.65]}
+{"kind":"textbox","id":"sh/j6dcr65c","slide":6,"name":"Text 14","text":"סיורים וביקורים בבסיסי צה\"ל","textPreview":"סיורים וביקורים בבסיסי צה\"ל","textChars":27,"textLines":1,"bbox":[687.43,271.77,220.48,17.48]}
+{"kind":"textbox","id":"sh/i54bylor","slide":6,"name":"Text 15","text":"ביקור בבסיס ומפגש עם יחידות לוחמות יוצרים חיבור רגשי עמוק ותחושת שייכות לקראת הגיוס.","textPreview":"ביקור בבסיס ומפגש עם יחידות לוחמות יוצרים חיבור רגשי עמוק ותחושת שייכות לקראת הגיוס.","textChars":84,"textLines":1,"bbox":[4.09,303.68,903.83,16.65]}
+{"kind":"shape","id":"sh/twfux0ne","slide":6,"name":"Shape 16","bbox":[52.09,415.8,855.83,1.5]}
+{"kind":"shape","id":"sh/svmt4v6t","slide":6,"name":"Shape 17","bbox":[768.54,382.24,1.5,33.57]}
+{"kind":"shape","id":"sh/cbe5g3ih","slide":6,"name":"Shape 18","bbox":[756.7,403.21,25.18,25.18]}
+{"kind":"textbox","id":"sh/dcnm98zm","slide":6,"name":"Text 19","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[760.89,405.31,16.78,20.98]}
+{"kind":"textbox","id":"sh/qpwnet0b","slide":6,"name":"Text 20","text":"ביקור בבסיסים","textPreview":"ביקור בבסיסים","textChars":13,"textLines":1,"bbox":[699.34,331.14,139.89,17.48]}
+{"kind":"textbox","id":"sh/bq547yhw","slide":6,"name":"Text 21","text":"סיורים מודרכים — הצצה לחיים הצבאיים מקרוב.","textPreview":"סיורים מודרכים — הצצה לחיים הצבאיים מקרוב.","textChars":42,"textLines":1,"bbox":[641.84,354.39,254.89,16.65]}
+{"kind":"shape","id":"sh/0fy5k3id","slide":6,"name":"Shape 22","bbox":[623.9,415.8,1.5,33.57]}
+{"kind":"shape","id":"sh/lg76d8zy","slide":6,"name":"Shape 23","bbox":[612.05,403.21,25.18,25.18]}
+{"kind":"textbox","id":"sh/ydgnit07","slide":6,"name":"Text 24","text":"2","textPreview":"2","textChars":1,"textLines":1,"bbox":[616.25,405.31,16.78,20.98]}
+{"kind":"textbox","id":"sh/zep4byhs","slide":6,"name":"Text 25","text":"מפגש עם יחידות","textPreview":"מפגש עם יחידות","textChars":14,"textLines":1,"bbox":[554.7,460.57,139.89,17.48]}
+{"kind":"textbox","id":"sh/gju58ji9","slide":6,"name":"Text 26","text":"הדגמות ושיחות עם לוחמים — תמונה אמיתית מהשטח.","textPreview":"הדגמות ושיחות עם לוחמים — תמונה אמיתית מהשטח.","textChars":45,"textLines":1,"bbox":[497.2,483.82,254.89,16.65]}
+{"kind":"shape","id":"sh/1k3mhozu","slide":6,"name":"Shape 27","bbox":[479.26,382.24,1.5,33.57]}
+{"kind":"shape","id":"sh/jet8nm1c","slide":6,"name":"Shape 28","bbox":[467.41,403.21,25.18,25.18]}
+{"kind":"textbox","id":"sh/idk7ehkr","slide":6,"name":"Text 29","text":"3","textPreview":"3","textChars":1,"textLines":1,"bbox":[471.61,405.31,16.78,20.98]}
+{"kind":"textbox","id":"sh/50bqpcj2","slide":6,"name":"Text 30","text":"בוגרי שירות","textPreview":"בוגרי שירות","textChars":11,"textLines":1,"bbox":[410.05,331.14,139.89,17.48]}
+{"kind":"textbox","id":"sh/4f2pgr2h","slide":6,"name":"Text 31","text":"עדויות מהחברה החרדית — הוכחה שזה אפשרי ושווה.","textPreview":"עדויות מהחברה החרדית — הוכחה שזה אפשרי ושווה.","textChars":45,"textLines":1,"bbox":[352.55,354.39,254.89,16.65]}
+{"kind":"shape","id":"sh/va98j210","slide":6,"name":"Shape 32","bbox":[334.62,415.8,1.5,33.57]}
+{"kind":"shape","id":"sh/u907axkf","slide":6,"name":"Shape 33","bbox":[322.77,403.21,25.18,25.18]}
+{"kind":"textbox","id":"sh/hcrqlcj6","slide":6,"name":"Text 34","text":"4","textPreview":"4","textChars":1,"textLines":1,"bbox":[326.97,405.31,16.78,20.98]}
+{"kind":"textbox","id":"sh/wbipc72l","slide":6,"name":"Text 35","text":"חשיפה מבצעית","textPreview":"חשיפה מבצעית","textChars":12,"textLines":1,"bbox":[265.41,460.57,139.89,17.48]}
+{"kind":"textbox","id":"sh/7698f214","slide":6,"name":"Text 36","text":"היכרות עם המשימות והמשמעות האמיתית של השירות.","textPreview":"היכרות עם המשימות והמשמעות האמיתית של השירות.","textChars":45,"textLines":1,"bbox":[207.91,483.82,254.89,16.65]}
+{"kind":"shape","id":"sh/m5076xkj","slide":6,"name":"Shape 37","bbox":[189.98,382.24,1.5,33.57]}
+{"kind":"shape","id":"sh/2dkbalg3","slide":6,"name":"Shape 38","bbox":[178.13,403.21,25.18,25.18]}
+{"kind":"textbox","id":"sh/netcjqxo","slide":6,"name":"Text 39","text":"5","textPreview":"5","textChars":1,"textLines":1,"bbox":[182.33,405.31,16.78,20.98]}
+{"kind":"textbox","id":"sh/of2tcvy9","slide":6,"name":"Text 40","text":"תחושת שייכות","textPreview":"תחושת שייכות","textChars":12,"textLines":1,"bbox":[120.77,331.14,139.89,17.48]}
+{"kind":"textbox","id":"sh/pgbul0fu","slide":6,"name":"Text 41","text":"הצעיר יודע לאן הוא הולך — ושהוא לא לבד.","textPreview":"הצעיר יודע לאן הוא הולך — ושהוא לא לבד.","textChars":39,"textLines":1,"bbox":[63.27,354.39,254.89,16.65]}
+{"kind":"notes","id":"nt/x8f69ofe","slide":6,"text":""}
+{"kind":"slide","id":"sl/gnmp4jqx","slide":7,"title":"שבירת תקרת הזכוכית","textShapes":12}
+{"kind":"textbox","id":"sh/cb2tkvap","slide":7,"name":"Text 0","text":"שבירת תקרת הזכוכית","textPreview":"שבירת תקרת הזכוכית","textChars":18,"textLines":1,"bbox":[512,31,396,55]}
+{"kind":"textbox","id":"sh/dcbud0ra","slide":7,"name":"Text 1","text":"הרקע ממנו הגעת אינו מגביל את העתיד שלך","textPreview":"הרקע ממנו הגעת אינו מגביל את העתיד שלך","textChars":38,"textLines":1,"bbox":[556,87,352,26]}
+{"kind":"textbox","id":"sh/ydkbm5sv","slide":7,"name":"Text 2","text":"כל צעיר חרדי יכול להגיע לכל מקום בצה\"ל — סיירות, קורס קצינים, קורס טיס, יחידות טכנולוגיות. צריך רצון, הכנה נכונה ותמיכה — ואת כל אלה נספק.","textPreview":"כל צעיר חרדי יכול להגיע לכל מקום בצה\"ל — סיירות, קורס קצינים, קורס טיס, יחידות טכנולוגיות. צריך רצון, הכנה נכונה ותמיכה — ואת כל אלה נספק.","textChars":138,"textLines":1,"bbox":[52,124,856,42]}
+{"kind":"shape","id":"sh/zedcfa9g","slide":7,"name":"Shape 3","bbox":[486.31,158.78,421.6,125.64]}
+{"kind":"shape","id":"sh/kzmdova1","slide":7,"name":"Shape 4","bbox":[856.15,172.09,38.45,38.45]}
+{"kind":"textbox","id":"sh/eh0ba1sr","slide":7,"name":"Text 5","text":"סיירות ויחידות מיוחדות","textPreview":"סיירות ויחידות מיוחדות","textChars":22,"textLines":1,"bbox":[734.36,223.16,160.24,20.02]}
+{"kind":"textbox","id":"sh/fi9c369c","slide":7,"name":"Text 6","text":"הכנה פיזית, מנטלית ומקצועית לדרישות יחידות העילית.","textPreview":"הכנה פיזית, מנטלית ומקצועית לדרישות יחידות העילית.","textChars":50,"textLines":1,"bbox":[499.62,250.76,394.98,20.35]}
+{"kind":"shape","id":"sh/baxkjqlk","slide":7,"name":"Shape 7","bbox":[52.09,158.78,421.61,125.64]}
+{"kind":"shape","id":"sh/a9ojq5kz","slide":7,"name":"Shape 8","bbox":[421.93,172.09,38.45,38.45]}
+{"kind":"textbox","id":"sh/cbq1sv25","slide":7,"name":"Text 9","text":"קורס קצינים","textPreview":"קורס קצינים","textChars":11,"textLines":1,"bbox":[300.14,223.16,160.24,20.02]}
+{"kind":"textbox","id":"sh/n6x0fqlo","slide":7,"name":"Text 10","text":"פיתוח מנהיגות וחשיבה אסטרטגית לדור הבא של קציני צה\"ל.","textPreview":"פיתוח מנהיגות וחשיבה אסטרטגית לדור הבא של קציני צה\"ל.","textChars":53,"textLines":1,"bbox":[65.4,250.76,394.98,20.35]}
+{"kind":"shape","id":"sh/25ojml43","slide":7,"name":"Shape 11","bbox":[486.31,297.04,421.6,125.64]}
+{"kind":"shape","id":"sh/p8fih03e","slide":7,"name":"Shape 12","bbox":[856.15,310.35,38.45,38.45]}
+{"kind":"textbox","id":"sh/f2d0b6lc","slide":7,"name":"Text 13","text":"קורס טיס","textPreview":"קורס טיס","textChars":8,"textLines":1,"bbox":[734.36,361.42,160.24,20.02]}
+{"kind":"textbox","id":"sh/eh4jil4r","slide":7,"name":"Text 14","text":"הכנה פסיכוטכנית ופיזית למסלול היוקרתי הזה.","textPreview":"הכנה פסיכוטכנית ופיזית למסלול היוקרתי הזה.","textChars":42,"textLines":1,"bbox":[499.62,389.02,394.98,20.35]}
+{"kind":"shape","id":"sh/id4ju1oz","slide":7,"name":"Shape 15","bbox":[52.09,297.04,421.61,125.64]}
+{"kind":"shape","id":"sh/jedkn654","slide":7,"name":"Shape 16","bbox":[421.93,310.35,38.45,38.45]}
+{"kind":"textbox","id":"sh/50v2pgna","slide":7,"name":"Text 17","text":"יחידות טכנולוגיות","textPreview":"יחידות טכנולוגיות","textChars":17,"textLines":1,"bbox":[300.14,361.42,160.24,20.02]}
+{"kind":"textbox","id":"sh/q143ylov","slide":7,"name":"Text 18","text":"מסלולים עם פוטנציאל תעסוקתי משמעותי לאחר השירות.","textPreview":"מסלולים עם פוטנציאל תעסוקתי משמעותי לאחר השירות.","textChars":48,"textLines":1,"bbox":[65.4,389.02,394.98,20.35]}
+{"kind":"textbox","id":"sh/r2dkrq5g","slide":7,"name":"Text 19","text":"כל צעיר שיושב בבית המדרש יכול מחר להוביל פלוגה, לטוס במטוס קרב או לפקד על יחידה מובחרת — אם ניתן לו את הכלים.","textPreview":"כל צעיר שיושב בבית המדרש יכול מחר להוביל פלוגה, לטוס במטוס קרב או לפקד על יחידה מובחרת — אם ניתן לו את הכלים.","textChars":109,"textLines":1,"bbox":[100,455,808,50]}
+{"kind":"image","id":"im/3ydory5k","slide":7,"name":"Image 0","bbox":[866.73,182.66,17.3,17.3]}
+{"kind":"image","id":"im/ix4nytoz","slide":7,"name":"Image 1","bbox":[432.51,182.66,17.3,17.3]}
+{"kind":"image","id":"im/l4rmh4n6","slide":7,"name":"Image 2","bbox":[866.73,320.92,17.3,17.3]}
+{"kind":"image","id":"im/k3i5oz61","slide":7,"name":"Image 3","bbox":[432.51,320.92,17.3,17.3]}
+{"kind":"notes","id":"nt/gnmp4jqx","slide":7,"text":""}
+{"kind":"slide","id":"sl/fu1gfa1s","slide":8,"title":"ערכים, תוכן ומעטפת תמיכה","textShapes":21}
+{"kind":"textbox","id":"sh/18byd4zy","slide":8,"name":"Text 0","text":"ערכים, תוכן ומעטפת תמיכה","textPreview":"ערכים, תוכן ומעטפת תמיכה","textChars":24,"textLines":1,"bbox":[446,36,462,58]}
+{"kind":"textbox","id":"sh/g72x4zyd","slide":8,"name":"Text 1","text":"ערכי הליבה של רוח נתנאל","textPreview":"ערכי הליבה של רוח נתנאל","textChars":23,"textLines":1,"bbox":[233.72,138.5,230.4,20.35]}
+{"kind":"textbox","id":"sh/6h0fypgb","slide":8,"name":"Text 2","text":"אהבת הארץ והמדינה","textPreview":"אהבת הארץ והמדינה","textChars":17,"textLines":1,"bbox":[287.81,187.02,162.79,20.35]}
+{"kind":"textbox","id":"sh/tkby9kzm","slide":8,"name":"Text 3","text":"השירות הצבאי — זכות ושליחות, לא רק חובה.","textPreview":"השירות הצבאי — זכות ושליחות, לא רק חובה.","textChars":40,"textLines":1,"bbox":[278.13,220.38,172.48,41.67]}
+{"kind":"textbox","id":"sh/je9g3ahk","slide":8,"name":"Text 4","text":"אחריות אישית","textPreview":"אחריות אישית","textChars":12,"textLines":1,"bbox":[75.29,187.02,162.79,20.35]}
+{"kind":"textbox","id":"sh/id0fu50z","slide":8,"name":"Text 5","text":"כל אחד אחראי על עצמו, על חבריו ועל עמו.","textPreview":"כל אחד אחראי על עצמו, על חבריו ועל עמו.","textChars":39,"textLines":1,"bbox":[65.6,220.38,172.48,41.67]}
+{"kind":"textbox","id":"sh/98rehwve","slide":8,"name":"Text 6","text":"תרומה לחברה","textPreview":"תרומה לחברה","textChars":11,"textLines":1,"bbox":[287.81,302.1,162.79,20.35]}
+{"kind":"textbox","id":"sh/m5gvmhwn","slide":8,"name":"Text 7","text":"גשר בין מגזרים וחלק מסיפור משותף.","textPreview":"גשר בין מגזרים וחלק מסיפור משותף.","textChars":33,"textLines":1,"bbox":[278.13,335.47,172.48,41.67]}
+{"kind":"textbox","id":"sh/0jydkreh","slide":8,"name":"Text 8","text":"מנהיגות וערבות הדדית","textPreview":"מנהיגות וערבות הדדית","textChars":20,"textLines":1,"bbox":[75.29,302.1,162.79,20.35]}
+{"kind":"textbox","id":"sh/1k7edwv2","slide":8,"name":"Text 9","text":"מנהיגות אמיתית היא שירות לאחר.","textPreview":"מנהיגות אמיתית היא שירות לאחר.","textChars":30,"textLines":1,"bbox":[65.6,335.47,172.48,41.67]}
+{"kind":"textbox","id":"sh/ehgvihwr","slide":8,"name":"Text 10","text":"התכנים מועברים על ידי רבנים, קצינים וראשי מכינות — שילוב עולם התורה עם עולם הביטחון.","textPreview":"התכנים מועברים על ידי רבנים, קצינים וראשי מכינות — שילוב עולם התורה עם עולם הביטחון.","textChars":84,"textLines":1,"bbox":[52.09,405.3,412.03,41.67]}
+{"kind":"textbox","id":"sh/zipwbmdc","slide":8,"name":"Text 11","text":"מעטפת תמיכה מקיפה","textPreview":"מעטפת תמיכה מקיפה","textChars":17,"textLines":1,"bbox":[697.62,138.5,210.79,20.35]}
+{"kind":"textbox","id":"sh/lgbepgvm","slide":8,"name":"Text 12","text":"סיוע משפטי","textPreview":"סיוע משפטי","textChars":10,"textLines":1,"bbox":[726.61,188.02,162.79,20.35]}
+{"kind":"textbox","id":"sh/tw7e9gnq","slide":8,"name":"Text 13","text":"ליווי בתיקי עבר וחסמים בירוקרטיים.","textPreview":"ליווי בתיקי עבר וחסמים בירוקרטיים.","textChars":34,"textLines":1,"bbox":[723.42,221.38,165.98,41.67]}
+{"kind":"textbox","id":"sh/7u5w765k","slide":8,"name":"Text 14","text":"סיוע כלכלי","textPreview":"סיוע כלכלי","textChars":10,"textLines":1,"bbox":[514.09,188.02,162.79,20.35]}
+{"kind":"textbox","id":"sh/6twve1oz","slide":8,"name":"Text 15","text":"תמיכה למשפחות — שום צעיר לא יוותר על הזדמנות.","textPreview":"תמיכה למשפחות — שום צעיר לא יוותר על הזדמנות.","textChars":45,"textLines":1,"bbox":[510.9,221.38,165.98,41.67]}
+{"kind":"textbox","id":"sh/kredcr6t","slide":8,"name":"Text 16","text":"תמיכה רגשית","textPreview":"תמיכה רגשית","textChars":11,"textLines":1,"bbox":[726.61,305.1,162.79,20.35]}
+{"kind":"textbox","id":"sh/jq5w365o","slide":8,"name":"Text 17","text":"ליווי פסיכולוגי וקהילתי לאורך ההכנה.","textPreview":"ליווי פסיכולוגי וקהילתי לאורך ההכנה.","textChars":36,"textLines":1,"bbox":[723.42,338.47,165.98,41.67]}
+{"kind":"textbox","id":"sh/x4ne1wni","slide":8,"name":"Text 18","text":"השלמת פערים","textPreview":"השלמת פערים","textChars":11,"textLines":1,"bbox":[514.09,305.1,162.79,20.35]}
+{"kind":"textbox","id":"sh/w3ed8r6x","slide":8,"name":"Text 19","text":"חיזוק אישי בכל תחום — לימודי, שפתי וחברתי.","textPreview":"חיזוק אישי בכל תחום — לימודי, שפתי וחברתי.","textChars":42,"textLines":1,"bbox":[510.9,338.47,165.98,41.67]}
+{"kind":"shape","id":"sh/m9sb2x4v","slide":8,"name":"Shape 20","bbox":[496.38,409.3,412.03,50.77]}
+{"kind":"textbox","id":"sh/8bat47ml","slide":8,"name":"Text 21","text":"המטרה: שהעבר לא ימנע עתיד משמעותי — כל צעיר ראוי להזדמנות.","textPreview":"המטרה: שהעבר לא ימנע עתיד משמעותי — כל צעיר ראוי להזדמנות.","textChars":58,"textLines":1,"bbox":[461.4,424.27,404.71,20.84]}
+{"kind":"image","id":"im/29cve1ob","slide":8,"name":"Image 0","bbox":[264.61,173.5,199.51,102.07]}
+{"kind":"image","id":"im/h83ulwnq","slide":8,"name":"Image 1","bbox":[52.09,173.5,199.51,102.07]}
+{"kind":"image","id":"im/gnudcr65","slide":8,"name":"Image 2","bbox":[264.61,288.59,199.51,102.07]}
+{"kind":"image","id":"im/fm1cj650","slide":8,"name":"Image 3","bbox":[52.09,288.59,199.51,102.07]}
+{"kind":"image","id":"im/ulsva1of","slide":8,"name":"Image 4","bbox":[708.91,173.5,201.01,104.07]}
+{"kind":"image","id":"im/14neh0na","slide":8,"name":"Image 5","bbox":[496.38,173.5,201.01,104.07]}
+{"kind":"image","id":"im/0jedovmp","slide":8,"name":"Image 6","bbox":[708.91,290.59,201.01,104.07]}
+{"kind":"image","id":"im/8n2lovm5","slide":8,"name":"Image 7","bbox":[496.38,290.59,201.01,104.07]}
+{"kind":"image","id":"im/tobmh0nq","slide":8,"name":"Image 8","bbox":[879.13,429.18,16.27,13.02]}
+{"kind":"notes","id":"nt/fu1gfa1s","slide":8,"text":""}
+{"kind":"slide","id":"sl/udsvah03","slide":9,"title":"מודל המנטורים, מבנה ארגוני והשפעה לאומית","textShapes":19}
+{"kind":"textbox","id":"sh/1cfmhgne","slide":9,"name":"Text 0","text":"מודל המנטורים, מבנה ארגוני והשפעה לאומית","textPreview":"מודל המנטורים, מבנה ארגוני והשפעה לאומית","textChars":40,"textLines":1,"bbox":[395,30,513,48]}
+{"kind":"textbox","id":"sh/0b65obm9","slide":9,"name":"Text 1","text":"מודל המנטורים — מעגל השפעה מתרחב","textPreview":"מודל המנטורים — מעגל השפעה מתרחב","textChars":32,"textLines":1,"bbox":[72,106,368,24]}
+{"kind":"textbox","id":"sh/nex4jq5k","slide":9,"name":"Text 2","text":"משתתף היום הוא מנטור מחר. כל מי שמתגייס הופך לחלק ממערכת תמיכה לאחרים — ומעביר ידע והשראה לדור הבא.","textPreview":"משתתף היום הוא מנטור מחר. כל מי שמתגייס הופך לחלק ממערכת תמיכה לאחרים — ומעביר ידע והשראה לדור הבא.","textChars":99,"textLines":1,"bbox":[72,134,368,42]}
+{"kind":"shape","id":"sh/ofq5svm5","slide":9,"name":"Shape 3","bbox":[859,360,28,28]}
+{"kind":"textbox","id":"sh/ah8nu54b","slide":9,"name":"Text 4","text":"משתתף חדש","textPreview":"משתתף חדש","textChars":9,"textLines":1,"bbox":[705,350,195,68]}
+{"kind":"textbox","id":"sh/oza1gfyh","slide":9,"name":"Text 5","text":"מקבל הכנה וליווי לקראת השירות.","textPreview":"מקבל הכנה וליווי לקראת השירות.","textChars":30,"textLines":1,"bbox":[719,386,167,23]}
+{"kind":"shape","id":"sh/3y107axw","slide":9,"name":"Shape 6","bbox":[654,360,28,28]}
+{"kind":"textbox","id":"sh/do3id4fy","slide":9,"name":"Text 7","text":"מתגייס ולוחם","textPreview":"מתגייס ולוחם","textChars":12,"textLines":1,"bbox":[500,350,195,68]}
+{"kind":"textbox","id":"sh/qlcjipgn","slide":9,"name":"Text 8","text":"משרת ביחידה משמעותית ומתפתח כמנהיג.","textPreview":"משרת ביחידה משמעותית ומתפתח כמנהיג.","textChars":35,"textLines":1,"bbox":[514,386,167,23]}
+{"kind":"shape","id":"sh/lsn2h4fa","slide":9,"name":"Shape 9","bbox":[859,440,28,28]}
+{"kind":"textbox","id":"sh/87a18zqt","slide":9,"name":"Text 10","text":"מנטור","textPreview":"מנטור","textChars":5,"textLines":1,"bbox":[705,430,195,68]}
+{"kind":"textbox","id":"sh/76h0zup8","slide":9,"name":"Text 11","text":"מלווה צעירים חדשים ומשמש דוגמה אישית.","textPreview":"מלווה צעירים חדשים ומשמש דוגמה אישית.","textChars":37,"textLines":1,"bbox":[719,466,167,23]}
+{"kind":"shape","id":"sh/wba1cjqp","slide":9,"name":"Shape 12","bbox":[654,440,28,28]}
+{"kind":"textbox","id":"sh/u9sja98z","slide":9,"name":"Text 13","text":"קהילה מתרחבת","textPreview":"קהילה מתרחבת","textChars":12,"textLines":1,"bbox":[500,430,195,68]}
+{"kind":"textbox","id":"sh/xgzitk76","slide":9,"name":"Text 14","text":"מעגל ההשפעה גדל והשינוי החברתי מעמיק.","textPreview":"מעגל ההשפעה גדל והשינוי החברתי מעמיק.","textChars":37,"textLines":1,"bbox":[514,466,167,23]}
+{"kind":"textbox","id":"sh/cf6h0fql","slide":9,"name":"Text 15","text":"מבנה ארגוני והשפעה לאומית","textPreview":"מבנה ארגוני והשפעה לאומית","textChars":25,"textLines":1,"bbox":[500,106,400,24]}
+{"kind":"textbox","id":"sh/2l4faloj","slide":9,"name":"Text 16","text":"הפעילות תפעל במסגרת עמותה עצמאית — ללא שיוך פוליטי, עבור כלל הציבור החרדי בישראל.","textPreview":"הפעילות תפעל במסגרת עמותה עצמאית — ללא שיוך פוליטי, עבור כלל הציבור החרדי בישראל.","textChars":81,"textLines":1,"bbox":[500,134,400,30]}
+{"kind":"shape","id":"sh/nmdg3q54","slide":9,"name":"Shape 17","bbox":[705,170,195,78]}
+{"kind":"textbox","id":"sh/onmxcv69","slide":9,"name":"Text 18","text":"ניהול מקצועי ובטוח","textPreview":"ניהול מקצועי ובטוח","textChars":18,"textLines":1,"bbox":[720,183,165,19]}
+{"kind":"textbox","id":"sh/pofy50nu","slide":9,"name":"Text 19","text":"ביטוח, בטיחות וליווי משפטי לפי הסטנדרטים הגבוהים ביותר.","textPreview":"ביטוח, בטיחות וליווי משפטי לפי הסטנדרטים הגבוהים ביותר.","textChars":55,"textLines":1,"bbox":[720,207,165,28]}
+{"kind":"shape","id":"sh/apofe5of","slide":9,"name":"Shape 20","bbox":[500,170,195,78]}
+{"kind":"textbox","id":"sh/bqxg7q50","slide":9,"name":"Text 21","text":"השפעה לאומית","textPreview":"השפעה לאומית","textChars":12,"textLines":1,"bbox":[515,183,165,19]}
+{"kind":"textbox","id":"sh/cr6xgv6l","slide":9,"name":"Text 22","text":"הגדלת המוטיבציה לשירות, צמצום נשירה ויצירת גשרים בין מגזרים.","textPreview":"הגדלת המוטיבציה לשירות, צמצום נשירה ויצירת גשרים בין מגזרים.","textChars":60,"textLines":1,"bbox":[515,207,165,28]}
+{"kind":"shape","id":"sh/xcfy90n6","slide":9,"name":"Shape 23","bbox":[500,258,400,72]}
+{"kind":"textbox","id":"sh/qtkf21ob","slide":9,"name":"Text 24","text":"יעדי השנה הראשונה","textPreview":"יעדי השנה הראשונה","textChars":17,"textLines":1,"bbox":[720,271,165,19]}
+{"kind":"textbox","id":"sh/rutwv65w","slide":9,"name":"Text 25","text":"גיוס משתתפים, תוכנית אימונים, מערך מנטורים ותשתית להתרחבות ארצית.","textPreview":"גיוס משתתפים, תוכנית אימונים, מערך מנטורים ותשתית להתרחבות ארצית.","textChars":65,"textLines":1,"bbox":[515,295,370,22]}
+{"kind":"image","id":"im/03edcnip","slide":9,"name":"Image 0","bbox":[82,188,300,300]}
+{"kind":"image","id":"im/14ne5sja","slide":9,"name":"Image 1","bbox":[285,244,15,15]}
+{"kind":"image","id":"im/e1wvad0z","slide":9,"name":"Image 2","bbox":[866,367,14,14]}
+{"kind":"image","id":"im/z25w3i14","slide":9,"name":"Image 3","bbox":[82,188,300,300]}
+{"kind":"image","id":"im/czud83it","slide":9,"name":"Image 4","bbox":[139,270,15,15]}
+{"kind":"image","id":"im/d0ne18je","slide":9,"name":"Image 5","bbox":[661,367,14,14]}
+{"kind":"image","id":"im/qxcv6d0n","slide":9,"name":"Image 6","bbox":[82,188,300,300]}
+{"kind":"image","id":"im/rylwzy18","slide":9,"name":"Image 7","bbox":[165,416,15,15]}
+{"kind":"image","id":"im/wvyxk7ix","slide":9,"name":"Image 8","bbox":[866,447,14,14]}
+{"kind":"image","id":"im/xw7edcji","slide":9,"name":"Image 9","bbox":[82,188,300,300]}
+{"kind":"image","id":"im/7qtg36lk","slide":9,"name":"Image 10","bbox":[311,390,15,15]}
+{"kind":"image","id":"im/6p0za1kz","slide":9,"name":"Image 11","bbox":[661,447,14,14]}
+{"kind":"notes","id":"nt/udsvah03","slide":9,"text":""}
+{"kind":"slide","id":"sl/m90b6t0r","slide":10,"title":"הצטרפו אלינו — ביחד נמשיך את דרכו של נתנאל","textShapes":20}
+{"kind":"textbox","id":"sh/xc3mho32","slide":10,"name":"Text 0","text":"הצטרפו אלינו — ביחד נמשיך את דרכו של נתנאל","textPreview":"הצטרפו אלינו — ביחד נמשיך את דרכו של נתנאל","textChars":42,"textLines":1,"bbox":[220,27,688,58]}
+{"kind":"textbox","id":"sh/cbu58j2h","slide":10,"name":"Text 1","text":"כל צעיר שמתגייס מוכן יותר — מצליח יותר, תורם יותר. זו תנועה חברתית שנועדה לשנות את החברה הישראלית.","textPreview":"כל צעיר שמתגייס מוכן יותר — מצליח יותר, תורם יותר. זו תנועה חברתית שנועדה לשנות את החברה הישראלית.","textChars":98,"textLines":1,"bbox":[95,88,813,38]}
+{"kind":"textbox","id":"sh/zelojyl8","slide":10,"name":"Text 2","text":"1","textPreview":"1","textChars":1,"textLines":1,"bbox":[650,130,220,52]}
+{"kind":"textbox","id":"sh/ydcnatkn","slide":10,"name":"Text 3","text":"מרכז ראשון","textPreview":"מרכז ראשון","textChars":10,"textLines":1,"bbox":[650,187,220,25]}
+{"kind":"textbox","id":"sh/l036l83y","slide":10,"name":"Text 4","text":"בסיס להתרחבות ארצית.","textPreview":"בסיס להתרחבות ארצית.","textChars":20,"textLines":1,"bbox":[650,216,220,34]}
+{"kind":"textbox","id":"sh/kzu5c32t","slide":10,"name":"Text 5","text":"∞","textPreview":"∞","textChars":1,"textLines":1,"bbox":[370,130,220,52]}
+{"kind":"textbox","id":"sh/725onyl4","slide":10,"name":"Text 6","text":"מעגל השפעה","textPreview":"מעגל השפעה","textChars":10,"textLines":1,"bbox":[370,187,220,25]}
+{"kind":"textbox","id":"sh/m1cnetkj","slide":10,"name":"Text 7","text":"כל משתתף הופך למנטור.","textPreview":"כל משתתף הופך למנטור.","textChars":21,"textLines":1,"bbox":[370,216,220,34]}
+{"kind":"textbox","id":"sh/s7yt4b21","slide":10,"name":"Text 8","text":"100%","textPreview":"100%","textChars":4,"textLines":1,"bbox":[90,130,220,52]}
+{"kind":"textbox","id":"sh/d87uxg3m","slide":10,"name":"Text 9","text":"מחויבות","textPreview":"מחויבות","textChars":7,"textLines":1,"bbox":[90,187,220,25]}
+{"kind":"textbox","id":"sh/q5gb21kb","slide":10,"name":"Text 10","text":"ללא שיוך פוליטי — רק טובת המשתתפים והמדינה.","textPreview":"ללא שיוך פוליטי — רק טובת המשתתפים והמדינה.","textChars":43,"textLines":1,"bbox":[90,216,220,34]}
+{"kind":"textbox","id":"sh/r6pcv6lw","slide":10,"name":"Text 11","text":"שלושת שלבי ההתרחבות","textPreview":"שלושת שלבי ההתרחבות","textChars":19,"textLines":1,"bbox":[704,255,204,24]}
+{"kind":"shape","id":"sh/0bit8b2d","slide":10,"name":"Shape 12","bbox":[629.78,327.28,260.43,11.8]}
+{"kind":"shape","id":"sh/1cru1g3y","slide":10,"name":"Shape 13","bbox":[872.51,315.48,35.41,35.41]}
+{"kind":"textbox","id":"sh/fapcz6ls","slide":10,"name":"Text 14","text":"שלב ראשון — הקמת המרכז","textPreview":"שלב ראשון — הקמת המרכז","textChars":22,"textLines":1,"bbox":[721.59,361.58,174.52,18.44]}
+{"kind":"textbox","id":"sh/ozitcv29","slide":10,"name":"Text 15","text":"גיוס צוות, הפעלת תוכנית האימונים ומערך המנטורים.","textPreview":"גיוס צוות, הפעלת תוכנית האימונים ומערך המנטורים.","textChars":48,"textLines":1,"bbox":[641.57,386.43,254.55,18]}
+{"kind":"shape","id":"sh/p0ru503u","slide":10,"name":"Shape 16","bbox":[340.94,309.58,260.44,11.8]}
+{"kind":"shape","id":"sh/xwnupgvy","slide":10,"name":"Shape 17","bbox":[583.67,297.77,35.41,35.41]}
+{"kind":"textbox","id":"sh/bu5cnqd8","slide":10,"name":"Text 18","text":"שלב שני — מודל מוכח","textPreview":"שלב שני — מודל מוכח","textChars":19,"textLines":1,"bbox":[459.76,343.87,147.52,18.44]}
+{"kind":"textbox","id":"sh/atwbelcn","slide":10,"name":"Text 19","text":"איסוף נתונים ושיפור לקראת התרחבות לאומית.","textPreview":"איסוף נתונים ושיפור לקראת התרחבות לאומית.","textChars":41,"textLines":1,"bbox":[352.73,368.73,254.55,18]}
+{"kind":"shape","id":"sh/lk7ut0va","slide":10,"name":"Shape 20","bbox":[52.1,291.87,260.43,11.8]}
+{"kind":"shape","id":"sh/kjytkvup","slide":10,"name":"Shape 21","bbox":[294.83,280.07,35.41,35.41]}
+{"kind":"textbox","id":"sh/yxgbilcj","slide":10,"name":"Text 22","text":"שלב שלישי — רשת ארצית","textPreview":"שלב שלישי — רשת ארצית","textChars":21,"textLines":1,"bbox":[151.11,326.17,167.33,18.44]}
+{"kind":"textbox","id":"sh/1o3ahwvq","slide":10,"name":"Text 23","text":"מוקדים ברחבי הארץ — כל צעיר חרדי קרוב למרכז הכנה.","textPreview":"מוקדים ברחבי הארץ — כל צעיר חרדי קרוב למרכז הכנה.","textChars":49,"textLines":1,"bbox":[63.89,351.02,254.55,36]}
+{"kind":"textbox","id":"sh/0nut8rul","slide":10,"name":"Text 24","text":"נתנאל סילברג ז\"ל הראה לנו מהי אהבת הארץ. עכשיו תורנו — לבנות דור של צעירים חרדים שמגיעים לשירות מתוך בחירה.","textPreview":"נתנאל סילברג ז\"ל הראה לנו מהי אהבת הארץ. עכשיו תורנו — לבנות דור של צעירים חרדים שמגיעים לשירות מתוך בחירה.","textChars":107,"textLines":1,"bbox":[70,438,820,36]}
+{"kind":"textbox","id":"sh/q9srixs3","slide":10,"name":"Text 25","text":"רוח נתנאל — הצטרפו אלינו.","textPreview":"רוח נתנאל — הצטרפו אלינו.","textChars":25,"textLines":1,"bbox":[195,482,570,35]}
+{"kind":"image","id":"im/s3axkfad","slide":10,"name":"Image 0","geometry":"rect","alt":"חניכי רוח נתנאל באימון קבוצתי","bbox":[0,276,960,264]}
+{"kind":"image","id":"im/r2hwru98","slide":10,"name":"Image 1","bbox":[592.52,306.62,17.7,17.7]}
+{"kind":"image","id":"im/618fipsn","slide":10,"name":"Image 2","bbox":[303.68,288.92,17.7,17.7]}
+{"kind":"notes","id":"nt/m90b6t0r","slide":10,"text":""}
