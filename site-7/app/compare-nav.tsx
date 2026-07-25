@@ -16,6 +16,10 @@ export default function CompareNav() {
   }
 
   const currentKey = process.env.NEXT_PUBLIC_SITE_KEY ?? "home";
+  const pagesBasePath = (process.env.NEXT_PUBLIC_BASE_PATH ?? "").replace(
+    /\/(site-\d+)$/,
+    ""
+  );
 
   return (
     <nav
@@ -41,7 +45,7 @@ export default function CompareNav() {
         return (
           <a
             key={variant.key}
-            href={variant.path}
+            href={`${pagesBasePath}${variant.path}`}
             style={{
               fontSize: 13,
               padding: "4px 10px",

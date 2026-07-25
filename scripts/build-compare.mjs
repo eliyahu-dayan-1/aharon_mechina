@@ -18,16 +18,21 @@ import path from "node:path";
 const rootDir = path.dirname(path.dirname(fileURLToPath(import.meta.url)));
 const outDir = path.join(rootDir, "outputs", "compare");
 
+// When deploying under a subpath (e.g. GitHub Pages project sites), set
+// PAGES_BASE_PATH=/repo-name so every variant's asset paths are prefixed
+// correctly. Defaults to "" for root-domain deployments.
+const pagesBasePath = process.env.PAGES_BASE_PATH ?? "";
+
 const variants = [
-  { dir: "site", target: "." },
-  { dir: "site-2", target: "site-2" },
-  { dir: "site-3", target: "site-3" },
-  { dir: "site-4", target: "site-4" },
-  { dir: "site-5", target: "site-5" },
-  { dir: "site-6", target: "site-6" },
-  { dir: "site-7", target: "site-7" },
-  { dir: "site-8", target: "site-8" },
-  { dir: "site-9", target: "site-9" },
+  { dir: "site", target: ".", siteKey: "home" },
+  { dir: "site-2", target: "site-2", siteKey: "site-2" },
+  { dir: "site-3", target: "site-3", siteKey: "site-3" },
+  { dir: "site-4", target: "site-4", siteKey: "site-4" },
+  { dir: "site-5", target: "site-5", siteKey: "site-5" },
+  { dir: "site-6", target: "site-6", siteKey: "site-6" },
+  { dir: "site-7", target: "site-7", siteKey: "site-7" },
+  { dir: "site-8", target: "site-8", siteKey: "site-8" },
+  { dir: "site-9", target: "site-9", siteKey: "site-9" },
 ];
 
 rmSync(outDir, { recursive: true, force: true });
@@ -35,8 +40,22 @@ mkdirSync(outDir, { recursive: true });
 
 for (const variant of variants) {
   const cwd = path.join(rootDir, variant.dir);
-  console.log(`\n> building ${variant.dir} (npm run build:compare)`);
-  execSync("npm run build:compare", { cwd, stdio: "inherit" });
+  const basePath =
+    variant.target === "."
+      ? pagesBasePath
+      : `${pagesBasePath}/${variant.target}`;
+  console.log(`\n> building ${variant.dir} (basePath="${basePath}")`);
+  execSync("npx next build", {
+    cwd,
+    stdio: "inherit",
+    env: {
+      ...process.env,
+      STATIC_EXPORT: "true",
+      NEXT_PUBLIC_BASE_PATH: basePath,
+      NEXT_PUBLIC_COMPARE_NAV: "true",
+      NEXT_PUBLIC_SITE_KEY: variant.siteKey,
+    },
+  });
 
   const exported = path.join(cwd, "out");
   if (!existsSync(exported)) {
