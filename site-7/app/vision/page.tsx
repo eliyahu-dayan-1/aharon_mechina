@@ -34,7 +34,7 @@ const pillars = [
 
 export default function VisionPage() {
   return (
-    <main>
+    <main className="vision-page">
       <div className="wash-blob wash-blob-a" data-parallax="0.18" aria-hidden="true" />
       <div className="wash-blob wash-blob-b" data-parallax="0.12" aria-hidden="true" />
 

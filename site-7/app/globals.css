@@ -200,6 +200,10 @@ body[data-zone="join"] .wash-blob-b {
   color: var(--white);
 }
 
+.vision-page .site-header {
+  background: linear-gradient(to bottom, rgba(16, 19, 12, 0.72) 0%, rgba(16, 19, 12, 0.72) 65%, rgba(16, 19, 12, 0) 100%);
+}
+
 .brand,
 .footer-brand {
   display: flex;
