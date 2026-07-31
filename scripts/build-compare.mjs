@@ -1,14 +1,7 @@
 #!/usr/bin/env node
-// Builds all 9 site variants as static exports and merges them into one
-// combined output so they can be browsed side by side under one deployment:
-//   /            -> site      (home, links out to each variant)
-//   /site-2/     -> site-2
-//   /site-3/     -> site-3
-//   /site-4/     -> site-4
-//   /site-5/     -> site-5
-//   /site-6/     -> site-6
-//   /site-7/     -> site-7 (site-6, split into multiple pages)
-//   /site-8/     -> site-8 (site-7, redesigned: warm, alive, mission-driven)
+// Builds the surviving site variants as static exports and merges them into
+// one combined output so they can be browsed side by side under one deployment:
+//   /            -> site-7 (home, split into multiple pages)
 //   /site-9/     -> site-9 (site-7, refined: clearer, richer, action-oriented)
 import { execSync } from "node:child_process";
 import { cpSync, existsSync, mkdirSync, rmSync } from "node:fs";
@@ -24,14 +17,7 @@ const outDir = path.join(rootDir, "outputs", "compare");
 const pagesBasePath = process.env.PAGES_BASE_PATH ?? "";
 
 const variants = [
-  { dir: "site", target: ".", siteKey: "home" },
-  { dir: "site-2", target: "site-2", siteKey: "site-2" },
-  { dir: "site-3", target: "site-3", siteKey: "site-3" },
-  { dir: "site-4", target: "site-4", siteKey: "site-4" },
-  { dir: "site-5", target: "site-5", siteKey: "site-5" },
-  { dir: "site-6", target: "site-6", siteKey: "site-6" },
-  { dir: "site-7", target: "site-7", siteKey: "site-7" },
-  { dir: "site-8", target: "site-8", siteKey: "site-8" },
+  { dir: "site-7", target: ".", siteKey: "home" },
   { dir: "site-9", target: "site-9", siteKey: "site-9" },
 ];
 

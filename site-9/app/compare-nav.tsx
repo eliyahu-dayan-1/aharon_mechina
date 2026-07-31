@@ -1,12 +1,5 @@
 const variants = [
-  { key: "home", label: "בית", path: "/" },
-  { key: "site-2", label: "עיצוב 2", path: "/site-2/" },
-  { key: "site-3", label: "עיצוב 3", path: "/site-3/" },
-  { key: "site-4", label: "עיצוב 4", path: "/site-4/" },
-  { key: "site-5", label: "עיצוב 5", path: "/site-5/" },
-  { key: "site-6", label: "עיצוב 6", path: "/site-6/" },
-  { key: "site-7", label: "עיצוב 6 (מפוצל לדפים)", path: "/site-7/" },
-  { key: "site-8", label: "עיצוב 8 (חי ומזמין)", path: "/site-8/" },
+  { key: "home", label: "עיצוב 7 (מפוצל לדפים)", path: "/" },
   { key: "site-9", label: "עיצוב 9 (מדויק ובשל)", path: "/site-9/" },
 ];
 
